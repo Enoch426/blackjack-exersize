@@ -1,0 +1,14 @@
+.background{
+  background-color: limegreen;
+  background-image: linear-gradient(limegreen, rgba(18, 149, 18, 0.787));
+}
+
+.spacing {
+    padding-top: 9em;
+    padding-left: 4em;
+}
+
+.dealer-hand{
+    background-color: rgb(148, 223, 148);
+    
+}
