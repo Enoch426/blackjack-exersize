@@ -1,0 +1,11 @@
+1.From our main or master branch, we created a new branch called planning.
+
+2. git checkout or switch to the btanch we want to work on (git chekcout planning)
+
+3. touch planning.txt and did some work on it. 
+
+4. git add [filename]
+
+5. git commit -m [your commit message]
+
+6. git push -u [remote name] [branch name]
