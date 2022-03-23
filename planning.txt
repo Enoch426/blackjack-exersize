@@ -1,4 +1,4 @@
-1.From our main or master branch, we created a new branch called planning.
+1.From our main or master branch, we created a new branch called ticket1. 
 
 2. git checkout or switch to the btanch we want to work on (git chekcout planning)
 
@@ -8,9 +8,13 @@
 
 5. git commit -m [your commit message]
 
-6. git push -u [remote name] [branch name]
+6. git push -u [remote name] [branch name] 
+
+ticket1 
 
 7.  style the page with css 
+
+ticket2
 
 8.Add an event listenter to target the cards to the dealer and the player 
 
