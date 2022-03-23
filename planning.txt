@@ -20,7 +20,13 @@ ticket2
 
 ticket3
 
-9. put image tags on dealer  and player elements in html.deal button deals four cards, two to the player, two to the dealer. 
+8.5 - create 52 card out of arrarys
+
+ticket4
+
+9. deal button deals four cards, two to the player, two to the dealer. 
+
+
 
 10. when you press the hit button, deals one more card to both dealer and player. 
 
