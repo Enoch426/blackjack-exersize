@@ -25,5 +25,5 @@ King of Hearts:
 
 make two arrays for the dealer and player to be abel to display the cards. 
 
-12. 
+12. find a way to shuffle the cards 
 
