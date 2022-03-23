@@ -18,6 +18,8 @@ ticket2
 
 8.Add an event listenter to target the cards to the dealer and the player 
 
+ticket3
+
 9. put image tags on dealer  and player elements in html.deal button deals four cards, two to the player, two to the dealer. 
 
 10. when you press the hit button, deals one more card to both dealer and player. 
