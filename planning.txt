@@ -20,7 +20,7 @@ ticket2
 
 ticket3
 
-8.5 - create 52 card out of arrarys
+8.5 - create 52 card out of arrarys or objects using for loop
 
 ticket4
 
