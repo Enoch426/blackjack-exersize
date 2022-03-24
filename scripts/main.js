@@ -28,3 +28,4 @@ const hitButton = document.getElementById("hit-button");
 buildDeck();
 
 
+})
