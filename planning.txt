@@ -30,6 +30,8 @@ ticket4
 
 10. when you press the hit button, deals one more card to both dealer and player. 
 
+ticket5
+
 11. make a deck of cards. can make our deck an array of objects. write a function that creates a deck of 52 cards 
 each object will represent a card. each card has a rank and suit ex:
 King of Hearts:
